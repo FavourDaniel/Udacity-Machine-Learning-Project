@@ -1,3 +1,15 @@
+* Serving Flask app "app" (lazy loading)     
+ * Environment: production   
+ WARNING: Do not use the development server in a production environment.   
+ Use a production WSGI server instead.       
+ * Debug mode: on * Running on http://0.0.0.0:80/ (Press CTRL+C to quit) 
+ * Restarting with stat * Debugger is active! 
+ * Debugger PIN: 176-301-982172.17.0.1 - - [25/Aug/2022 16:15:43] "GET / HTTP/1.1" 200 -
+
+
+
+
+
 Port: 8000
 {
   "prediction": [
