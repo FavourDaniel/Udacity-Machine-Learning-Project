@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/uzukwujp/DevOps_Microservices/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/uzukwujp/DevOps_Microservices/tree/master)
+[![CircleCI](https://app.circleci.com/pipelines/github/FavourDaniel/udacity-machine-learning-project?branch=master)
 
 ## Project Overview
 
